@@ -1,0 +1,20 @@
+main/src/main/scala/sbt/internal/IncrementalTest.scala
+  s_97736cd1b09322::t_f4eaacc3bd1840 178-180
+  s_97736cd1b09322::t_a5ff4e66670d6f 205-212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "332ed9af079e4f7b665df6ea4305050379fd4962",
+  "prompts": {},
+  "sessions": {
+    "s_97736cd1b09322": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "398d8b65-7b3a-431a-8ffe-ab1340ec7c9e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
