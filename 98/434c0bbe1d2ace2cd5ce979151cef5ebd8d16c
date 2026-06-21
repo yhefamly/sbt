@@ -1,0 +1,33 @@
+main/src/main/scala/sbt/internal/IncrementalTest.scala
+  s_97736cd1b09322::t_92d288afe43618 221,225-226,228,230-232,243
+  s_97736cd1b09322::t_1dac78a44fefaa 192
+  s_97736cd1b09322::t_011ecf8c55693c 258
+  s_97736cd1b09322::t_e76fe73b48a75e 178-186,188-191
+  s_97736cd1b09322::t_077fdc18fa393b 259,270,274,278-279,285,290
+  s_97736cd1b09322::t_2946d929985e2f 187
+  s_97736cd1b09322::t_25056b0bf0adbb 227,229
+  s_97736cd1b09322::t_c6403f7d8b8790 236,239
+  s_97736cd1b09322::t_1b655c6b72d5f2 248
+  s_97736cd1b09322::t_55d30a38fe8609 282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "98434c0bbe1d2ace2cd5ce979151cef5ebd8d16c",
+  "prompts": {},
+  "humans": {
+    "h_08749565cac8b5": {
+      "author": "Yannick Heiber <yhe@famly.co>"
+    }
+  },
+  "sessions": {
+    "s_97736cd1b09322": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "398d8b65-7b3a-431a-8ffe-ab1340ec7c9e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
