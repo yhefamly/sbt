@@ -1,0 +1,14 @@
+main/src/main/scala/sbt/internal/IncrementalTest.scala
+  h_08749565cac8b5 181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "8d1d6576acae3989895b2241dfcdab4dc277767c",
+  "prompts": {},
+  "humans": {
+    "h_08749565cac8b5": {
+      "author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
